@@ -1,0 +1,12 @@
+E:\work\ASP\Lab\Sharings\bin\Debug\net6.0\SharedLibrary.deps.json
+E:\work\ASP\Lab\Sharings\bin\Debug\net6.0\SharedLibrary.dll
+E:\work\ASP\Lab\Sharings\bin\Debug\net6.0\SharedLibrary.pdb
+E:\work\ASP\Lab\Sharings\obj\Debug\net6.0\SharedLibrary.csproj.AssemblyReference.cache
+E:\work\ASP\Lab\Sharings\obj\Debug\net6.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ASP\Lab\Sharings\obj\Debug\net6.0\SharedLibrary.AssemblyInfoInputs.cache
+E:\work\ASP\Lab\Sharings\obj\Debug\net6.0\SharedLibrary.AssemblyInfo.cs
+E:\work\ASP\Lab\Sharings\obj\Debug\net6.0\SharedLibrary.csproj.CoreCompileInputs.cache
+E:\work\ASP\Lab\Sharings\obj\Debug\net6.0\SharedLibrary.dll
+E:\work\ASP\Lab\Sharings\obj\Debug\net6.0\refint\SharedLibrary.dll
+E:\work\ASP\Lab\Sharings\obj\Debug\net6.0\SharedLibrary.pdb
+E:\work\ASP\Lab\Sharings\obj\Debug\net6.0\ref\SharedLibrary.dll
